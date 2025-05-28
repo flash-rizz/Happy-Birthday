@@ -1,0 +1,21 @@
+{
+  "name": "Happy Birthday",
+  "short_name": "Birthday",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7f0",
+  "theme_color": "#ffc0cb",
+  "description": "A cute birthday app for her 💖",
+  "icons": [
+    {
+      "src": "Happy Birthday2.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Happy Birthday.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
